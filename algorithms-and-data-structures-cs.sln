@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithms-and-data-structures-cs", "algorithms-and-data-structures-cs.csproj", "{C0951E21-1175-4CFA-AC32-21F733952998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0951E21-1175-4CFA-AC32-21F733952998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0951E21-1175-4CFA-AC32-21F733952998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0951E21-1175-4CFA-AC32-21F733952998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0951E21-1175-4CFA-AC32-21F733952998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEAF0C0D-BD6B-4ED2-9889-8E1946292049}
+	EndGlobalSection
+EndGlobal
